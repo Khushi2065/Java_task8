@@ -1,0 +1,84 @@
+What is the capital of France?
+Berlin
+Madrid
+Paris
+Rome
+3
+---
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+2
+---
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Claude Monet
+3
+---
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Pacific Ocean
+4
+---
+What is the largest land animal?
+African Elephant
+Giraffe
+Rhinoceros
+Hippopotamus
+1
+---
+Which gas do plants absorb from the atmosphere?
+Oxygen
+Nitrogen
+Carbon Dioxide
+Hydrogen
+3
+---
+What is the smallest country in the world?
+Monaco
+Vatican City
+San Marino
+Liechtenstein
+2
+---
+What is the chemical symbol for water?
+H2O2
+CO2
+NaCl
+H2O
+4
+---
+How many continents are there in the world?
+Five
+Six
+Seven
+Eight
+3
+---
+Which sport is known as the "king of sports"?
+Basketball
+Tennis
+Football (Soccer)
+Cricket
+3
+---
+What is the longest river in the world?
+Amazon River
+Nile River
+Yangtze River
+Mississippi River
+2
+---
+What is the primary language spoken in Brazil?
+Spanish
+English
+Portuguese
+French
+3
+---
